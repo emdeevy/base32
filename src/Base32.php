@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace emdeevy\base43;
+namespace emdeevy\base32;
 
 use InvalidArgumentException;
 
