@@ -4,7 +4,7 @@
   "description": "Base32 encoder/decoder according to RFC 4648",
   "license": "MIT",
   "keywords": ["base32","encode","decode","rfc4648"],
-  "homepage": "https://github.com/emdeevy/otp/tree/php",
+  "homepage": "https://github.com/emdeevy/base32/tree/php",
   "authors": [
     {
       "name": "Denis Makula",
